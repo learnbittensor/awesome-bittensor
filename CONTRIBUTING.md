@@ -62,8 +62,6 @@ To contribute to the awesome list, follow these steps:
 Before submitting your changes, make sure to:
 
 - Search for an open or closed Pull Request that relates to your submission. You don't want to duplicate effort.
-- Follow the [styleguides](#styleguides).
-- Check your spelling and grammar.
 - Remove any trailing whitespace.
 - Ensure your changes are relevant to Bittensor and provide value to the community.
 
