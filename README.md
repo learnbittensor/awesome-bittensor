@@ -8,7 +8,6 @@ A curated list of awesome things about Bittensor.
 - [Documentation](#documentation)
 - [Wallets](#wallets)
 - [Validators](#validators)
-- [Miners](#miners)
 - [Subnets](#subnets)
 - [Applications](#applications)
 - [Tools](#tools)
@@ -42,10 +41,6 @@ A curated list of awesome things about Bittensor.
 
 - [Bittensor Validators List](https://bittensor.org/bittensor-validators-list/) - List of active Bittensor validators
 - [Bittensor Validators GitHub](https://github.com/opentensor/validators) - GitHub repository for Bittensor validator resources
-
-## Miners
-
-- [Bittensor Miner Setup Guide](https://docs.bittensor.com/miner-setup-guide) - Guide for setting up a Bittensor miner
 
 ## Subnets
 
