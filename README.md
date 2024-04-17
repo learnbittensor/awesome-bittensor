@@ -102,12 +102,13 @@ A curated list of awesome things about Bittensor.
 
 ## Community
 
+- [Bittensor.org](https://bittensor.org/) - Community-driven website for Bittensor
+
 - [Bittensor Discord](https://discord.gg/bittensor) - Official Discord server
 - [Bittensor Community Discord](https://discord.gg/J3rdF4f8QE) - Official Community-Discord server
 - [Bittensor Telegram](https://t.me/bittensor) - Telegram channel for Bittensor discussions
 - [Bittensor Reddit](https://www.reddit.com/r/bittensor/) - Bittensor subreddit
 - [Bittensor Twitter](https://twitter.com/bittensor_) - Official Bittensor Twitter account
-- [Bittensor.org](https://bittensor.org/) - Community-driven website for Bittensor
 
 ## Articles/Videos and Podcasts
 
