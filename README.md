@@ -129,3 +129,9 @@ A curated list of awesome things about Bittensor.
 ## Yield Farming
 
 - [Tao Yield](https://taoyield.com/) - Staking-Yield overview platform for the TAO token
+
+---
+
+## Contributing
+
+Contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
