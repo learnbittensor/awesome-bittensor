@@ -40,7 +40,6 @@ A curated list of awesome things about Bittensor.
 ## Validators
 
 - [Bittensor Validators List](https://bittensor.org/bittensor-validators-list/) - List of active Bittensor validators
-- [Bittensor Validators GitHub](https://github.com/opentensor/validators) - GitHub repository for Bittensor validator resources
 
 ## Subnets
 
@@ -90,12 +89,8 @@ A curated list of awesome things about Bittensor.
 
 ## Tools
 
-- [Bittensor CLI](https://docs.bittensor.com/cli) - Command-line interface for interacting with Bittensor
-- [Bittensor API](https://docs.bittensor.com/api) - API for integrating with Bittensor
 - [Subtensor](https://github.com/opentensor/subtensor) - Bittensor's Substrate blockchain implementation
 - [Taostats](https://taostats.io/) - Block explorer for the Bittensor network
-- [Bittensor Oracle](https://oracle.opentensor.ai/) - Oracle for querying Bittensor chain data
-- [Bittensor Metagraph](https://metagraph.bittensor.com/) - Visualization of the Bittensor network
 - [Bittensor Insights](https://www.bittensor-insights.com/) - Analytics and insights for the Bittensor network
 - [Taohub.ai](https://taohub.ai/) - Explorer and analytics platform for the Bittensor network
 
@@ -103,7 +98,6 @@ A curated list of awesome things about Bittensor.
 
 - [MEXC](https://www.mexc.com/exchange/TAO_USDT) - Cryptocurrency exchange listing TAO token
 - [Bittensor Exchange](https://bittensor.exchange/) - Community-run exchange for Bittensor
-- [wTAO on Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x7f8eaf31c89f841d3c6e1fceb2a8ea445a82639a) - Wrapped TAO token on Uniswap
 - [Tensor Exchange](https://tensor.exchange/) - Decentralized exchange for Bittensor
 
 ## Community
@@ -114,11 +108,8 @@ A curated list of awesome things about Bittensor.
 - [Bittensor Twitter](https://twitter.com/bittensor_) - Official Bittensor Twitter account
 - [Bittensor.org](https://bittensor.org/) - Community-driven website for Bittensor
 
-## Articles and Podcasts
+## Articles/Videos and Podcasts
 
-- [Bittensor – Beating Google at its own Game](https://medium.com/@cryptoyusaku/bittensor-beating-google-at-its-own-game-e933a2c0c8f7) - Article discussing Bittensor's potential impact
-- [Ala Shaabana on Infinite Machine Learning Podcast](https://www.youtube.com/watch?v=videoseries?list=PLgNmGqwPEaUQEoQb9yZhYUC_zMcHeIjQj) - Podcast episode featuring Bittensor co-founder Ala Shaabana
-- [Jacob Steeves and Ala Shaabana on Meta-averse Podcast](https://www.youtube.com/watch?v=Nt5sSMNccXk) - Podcast episode with Bittensor co-founders
 - [Bittensor Guru Podcast](https://www.youtube.com/channel/UCxFVYdYxLhKhBQoQSPJoB8A) - Podcast dedicated to Bittensor discussions and interviews (by Keith)
 
 ## Yield Farming
