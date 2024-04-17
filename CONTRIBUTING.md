@@ -75,6 +75,6 @@ Documentation improvements are always welcome! If you find a typo, an unclear ex
 
 Commit messages should be clear and descriptive. Avoid using vague or generic messages like "update" or "fix". Instead, describe what specifically was updated or fixed.
 
-## Join The Project Team
+## Become a Core Contributor
 
 If you're interested in becoming a core contributor to the Awesome Bittensor project, please reach out to me at contact@mcjkula.com. I'd love to have you on board!
