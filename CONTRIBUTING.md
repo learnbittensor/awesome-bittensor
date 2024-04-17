@@ -2,79 +2,34 @@
 
 First off, thanks for taking the time to contribute! ❤️
 
-All types of contributions are encouraged and valued. Please make sure to read the relevant section before making your contribution. It will make it a lot easier for me as the maintainer and smooth out the experience for all involved. The community looks forward to your contributions. 🎉
+I welcome contributions from the community to help make this list as comprehensive and useful as possible.
 
-## Code of Conduct
+## How to Contribute
 
-This project and everyone participating in it is governed by the [Awesome Bittensor Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to contact@mcjkula.com.
+There are two main ways to contribute:
 
-## I Have a Question
+1. **Submit an Issue**: If you have a suggestion for a new resource or project to add to the list, or if you notice any errors or outdated information, please [submit an issue](https://github.com/learnbittensor/awesome-bittensor/issues/new). Provide a clear description of your suggestion or the problem you noticed.
 
-Before you ask a question, it is best to search for existing [Issues](https://github.com/learnbittensor/awesome-bittensor/issues) that might help you. In case you have found a suitable issue and still need clarification, you can write your question in this issue. It is also advisable to search the internet for answers first.
+2. **Submit a Pull Request**: If you want to contribute directly to the list, you can do so by submitting a pull request. Here's how:
+   - Fork the repository to your own GitHub account.
+   - Make your changes or additions to the list in your forked repository.
+   - Ensure that your changes follow the existing format and style of the list.
+   - Commit your changes with a descriptive commit message.
+   - Submit a pull request from your forked repository to the main repository.
 
-If you then still feel the need to ask a question and need clarification, I recommend the following:
+## Contribution Guidelines
 
-- Open an [Issue](https://github.com/learnbittensor/awesome-bittensor/issues/new).
-- Provide as much context as you can about what you're running into.
-- Provide project and other information depending on what seems relevant.
+To ensure a high-quality and consistent list, please follow these guidelines when contributing:
 
-I will then take care of the issue as soon as possible.
+- Only add resources and projects that are directly related to Bittensor.
+- Provide a clear and concise description of each resource or project.
+- Include a link to the resource or project, making sure the link is valid and up-to-date.
+- Place your additions in the appropriate category or section of the list.
+- If you're unsure about the relevance or placement of a resource, feel free to submit an issue for discussion.
 
-## Suggesting Enhancements
+## License
 
-This section guides you through submitting an enhancement suggestion for Awesome Bittensor, **including completely new features and minor improvements to existing functionality**. Following these guidelines will help me and the community to understand your suggestion and find related suggestions.
+By contributing to this list, you agree that your contributions will be licensed under the same [MIT License](LICENSE) as the rest of the repository.
 
-### Before Submitting an Enhancement
+Thank you for your contributions and helping to make the Awesome Bittensor list a valuable resource for the community!
 
-- Make sure that you are using the latest version.
-- Read the [documentation](https://github.com/learnbittensor/awesome-bittensor) carefully and find out if the functionality is already covered, maybe by an individual configuration.
-- Perform a [search](https://github.com/learnbittensor/awesome-bittensor/issues) to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
-- Find out whether your idea fits with the scope and aims of the project. It's up to you to make a strong case to convince me of the merits of this feature. Keep in mind that I want features that will be useful to the majority of users and not just a small subset.
-
-### How Do I Submit a Good Enhancement Suggestion?
-
-Enhancement suggestions are tracked as [GitHub issues](https://github.com/learnbittensor/awesome-bittensor/issues).
-
-- Use a **clear and descriptive title** for the issue to identify the suggestion.
-- Provide a **step-by-step description of the suggested enhancement** in as many details as possible.
-- **Describe the current behavior** and **explain which behavior you expected to see instead** and why. At this point you can also tell which alternatives do not work for you.
-- You may want to **include screenshots and animated GIFs** which help you demonstrate the steps or point out the part which the suggestion is related to. You can use [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux.
-- **Explain why this enhancement would be useful** to most Awesome Bittensor users. You may also want to point out the other projects that solved it better and which could serve as inspiration.
-
-## Your Contribution
-
-To contribute to the awesome list, follow these steps:
-
-1. Fork the repository.
-2. Make your changes in a new branch:
-   ```shell
-   git checkout -b my-branch main
-3. Commit your changes:
-   ```shell
-   git commit -am 'Add some feature'
-   ```
-4. Push to the branch:
-   ```shell
-   git push origin my-branch
-   ```
-5. Create a Pull Request.
-
-Before submitting your changes, make sure to:
-
-- Search for an open or closed Pull Request that relates to your submission. You don't want to duplicate effort.
-- Remove any trailing whitespace.
-- Ensure your changes are relevant to Bittensor and provide value to the community.
-
-### Improving The Documentation
-
-Documentation improvements are always welcome! If you find a typo, an unclear explanation, or think something should be added, feel free to open a pull request.
-
-## Styleguides
-
-### Commit Messages
-
-Commit messages should be clear and descriptive. Avoid using vague or generic messages like "update" or "fix". Instead, describe what specifically was updated or fixed.
-
-## Become a Core Contributor
-
-If you're interested in becoming a core contributor to the Awesome Bittensor project, please reach out to me at contact@mcjkula.com. I'd love to have you on board!
