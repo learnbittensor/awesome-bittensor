@@ -1,106 +1,125 @@
 # Awesome Bittensor [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome things about Bittensor.
+A extensive list of all the awesome things around Bittensor.
 
-## Contents
+## Table of Contents
 
-- [Official](#official)
-- [Documentation](#documentation)
+- [Official Sources](#official-sources)
+- [Documentations](#documentations)
+- [Educational Sources](#educational-sources)
 - [Wallets](#wallets)
-- [Validators](#validators)
-- [Subnets](#subnets)
+- [Verified Validators](#verified-validators)
+- [Subnets Overview](#subnets-Overview)
 - [Applications](#applications)
-- [Tools](#tools)
-- [Exchanges](#exchanges)
-- [Community](#community)
-- [Articles and Podcasts](#articles-and-podcasts)
-- [Yield Farming](#yield-farming)
+- [Useful Tools/Platforms](#useful-tools/platforms)
+- [Supported Exchanges](#supported-exchanges)
+- [Social Media](#social-media)
+- [Community-Driven Projects](#community-driven-projects)
+- [Bittensor Content](#bittensor-content)
 
-## Official
+---
 
-- [Bittensor Website](https://bittensor.com/) - Official website of the Bittensor project
+## Official Sources
+
+- [Bittensor Website](https://bittensor.com/) - Official website of Bittensor (by Opentensor Foundation)
 - [Bittensor GitHub](https://github.com/opentensor/bittensor) - Main GitHub repository for Bittensor
-- [Bittensor Charter](https://github.com/opentensor/bittensor-charter) - Governance and principles of the Bittensor network
 - [Bittensor Whitepaper](https://bittensor.com/whitepaper) - Technical whitepaper explaining Bittensor's architecture and design
-- [Bittensor Academia](https://bittensor.com/academia) - Research papers and academic resources related to Bittensor
-- [Opentensor Foundation](https://opentensor.ai/) - Non-profit organization supporting the development of Bittensor
+- [Opentensor Foundation](https://opentensor.ai/) - Non-profit organization that founded Bittensor
 
-## Documentation
+## Documentations
 
 - [Bittensor Documentation](https://docs.bittensor.com/) - Official documentation for Bittensor
 - [Bittensor Wiki](https://bittensorwiki.com/) - Community-maintained wiki for Bittensor
+- [Taostats Documentation](https://docs.taostats.io/docs/index/) - Bittensor documentation maintained by the Toastats-Team
+
+## Educational Sources
+
 - [Learn Bittensor](https://learnbittensor.org/) - Educational resources for learning about Bittensor
+- [TensorTeacher](https://www.youtube.com/@TensorTeacher-ym8mi/) - YouTube channel with content around mining setup/tutorials
 
 ## Wallets
 
 - [Bittensor Wallet Browser Extension](https://bittensor.com/wallet) - Official browser extension wallet for Bittensor
-- [Polkadot Wallet](https://polkadot.js.org/apps/#/accounts) - Wallet for managing Polkadot and Bittensor accounts
-- [Tensor Wallet](https://tensorwallet.ca/) - Third-party wallet for Bittensor
+- [Tensor Wallet](https://tensorwallet.ca/) - Community-maintained wallet for Bittensor
+- [Polkadot.JS Wallet](https://polkadot.js.org/apps/#/accounts) - Wallet for managing Polkadot and substrate-related accounts (e.g. Bittensor)
+- [Subwallet](https://www.subwallet.app/) - Another wallet for substrate-related accounts (e.g. Bittensor) with support on Android/IOS, Web-Extension, Desktop
+- [Nova Wallet](https://novawallet.io/) - Mobile Wallet for Android/IOS for managing substrate-related accounts (e.g. Bittensor)
 
-## Validators
+## Verified Validators
 
-- [Bittensor Validators List](https://bittensor.org/bittensor-validators-list/) - List of active Bittensor validators
+- [Bittensor Validators List](https://bittensor.org/bittensor-validators-list/) - Curated List of active Bittensor validators
 
-## Subnets
+## Subnets Overview
+
+This list can change drastically over-time, while trying to be up-to-date.
 
 - [Bittensor Subnets Overview](https://docs.bittensor.com/subnets) - Overview of Bittensor subnets
-- [LLM Detection Subnet](https://github.com/It-s-AI/llm-detection) - Subnet for detecting AI-generated text
-- [Healthcare Subnet](https://github.com/bthealthcare/healthcare-subnet) - Subnet for healthcare-related applications
-- [Fractal Subnet](https://github.com/fractal-net/fractal) - Subnet for fractal-based applications
-- [S&P 500 Oracle Subnet](https://github.com/teast21/snpOracle) - Subnet for providing S&P 500 data
-- [Compute Subnet](https://github.com/neuralinternet/compute-subnet/) - Subnet for distributed computing
-- [ImageAlchemy Subnet](https://github.com/Supreme-Emperor-Wang/ImageAlchemy/) - Subnet for image generation and manipulation
-- [Distributed Training Subnet](https://github.com/bit-current/DistributedTraining) - Subnet for distributed model training
-- [Automata Subnet](https://github.com/vn-automata/bt-automata) - Subnet for automata-based applications
-- [NicheImage Subnet](https://github.com/NicheTensor/NicheImage/) - Subnet for niche image generation
-- [Smart Scrape Subnet](https://github.com/surcyf123/smart-scrape/) - Subnet for intelligent web scraping
-- [Storage Subnet](https://github.com/ifrit98/storage-subnet/) - Subnet for decentralized storage
-- [Bitagent Subnet](https://github.com/RogueTensor/bitagent_subnet) - Subnet for multi-agent systems
-- [Vision Subnet](https://github.com/namoray/vision/) - Subnet for computer vision applications
-- [Cortex.t Subnet](https://github.com/corcel-api/cortex.t/) - Subnet for natural language processing
-- [Flavia Subnet](https://github.com/CortexLM/flavia/) - Subnet for language modeling
-- [Audio Subnet](https://github.com/UncleTensor/AudioSubnet/) - Subnet for audio processing
-- [Blockchain Data Subnet](https://github.com/blockchain-insights/blockchain-data-subnet/) - Subnet for blockchain data analysis
-- [LLM Defender Subnet](https://github.com/ceterum1/llm-defender-subnet/) - Subnet for defending against malicious AI
-- [Data Universe Subnet](https://github.com/RusticLuftig/data-universe/) - Subnet for data exploration and visualization
-- [Compute Horde Subnet](https://github.com/backend-developers-ltd/ComputeHorde) - Subnet for distributed computing
-- [Transcription Subnet](https://github.com/Cazure8/transcription-subnet) - Subnet for audio transcription
-- [Map Reduce Subnet](https://github.com/dream-well/map-reduce-subnet/) - Subnet for distributed data processing
-- [Pretrain Subnet](https://github.com/unconst/pretrain-subnet/) - Subnet for model pretraining
-- [Proprietary Trading Network Subnet](https://github.com/taoshidev/proprietary-trading-network) - Subnet for proprietary trading algorithms
-- [Tensorage Subnet](https://github.com/tensorage/tensorage/) - Subnet for age estimation from images
-- [Finetuning Subnet](https://github.com/NousResearch/finetuning-subnet) - Subnet for model finetuning
-- [OpenKaito Subnet](https://github.com/OpenKaito/openkaito) - Subnet for open-source AI applications
-- [Targon Subnet](https://github.com/manifold-inc/targon/) - Subnet for targeted advertising
-- [Scraping Subnet](https://github.com/gitphantomman/scraping_subnet/) - Subnet for web scraping
-- [Omron Subnet](https://github.com/inference-labs-inc/omron-subnet) - Subnet for industrial automation
-- [Prompting Subnet](https://github.com/opentensor/prompting) - Subnet for prompt engineering
+
+- [SN00](https://github.com/opentensor/bittensor) - **Root Network** (Determines the proportion of the network’s block emission to be distributed to each subnet network)
+- [SN01](https://github.com/opentensor/text-prompting) - **Text Prompting** (Incentivizes AI-driven conversational intelligence development)
+- [SN02](https://github.com/inference-labs-inc/omron-subnet) - **Omron** (AI Liquid Re-staking Yield Optimizer)
+- [SN03](https://github.com/myshell-ai/MyShell-TTS-Subnet) - **MyShell** (Innovative, open-source Text-to-Speech (TTS) technology)
+- [SN04](https://github.com/manifold-inc/targon) - **Multi Modality** (Decentralized ML search engine capturing meaning from text & images)
+- [SN05](https://github.com/OpenKaito/openkaito) - **OpenKaito** (decentralizes Web3 search with BitTensor's Yuma consensus)
+- [SN06](https://github.com/NousResearch/finetuning-subnet) - **Nous Research** (Continuous fine-tuning of LLMs with incentivized synthetic data)
+- [SN07](https://github.com/eclipsevortex/SubVortex) - **SubVortex** (Boosts Bittensor with decentralized subtensor nodes for improved stability/efficiency)
+- [SN08](https://github.com/taoshidev/time-series-prediction-subnet) - **Taoshi** (The Nexus of Decentralized Financial Forecasting)
+- [SN09](https://github.com/RaoFoundation/pretraining) - **Pre Training** (Facilitates pre-training of AI models on large-scale generic datasets)
+- [SN10](https://github.com/apollozkp/zkp-subnet) - **Apollo ZK** (Computing zero-knowledge proofs in a collaborative way, providing linear scaling of prover speed with network size)
+- [SN11](https://github.com/Cazure8/transcription-subnet) - **Transcription** (Decentralized AI for audio-to-text transcription using advanced models)
+- [SN12](https://github.com/backend-developers-ltd/ComputeHorde) - **Compute Horde** (Enables decentralized, parallel task processing with dynamic executor management)
+- [SN13](https://github.com/RusticLuftig/data-universe/) - **Dataverse** (Data is a critical pillar of AI and Data Universe is that pillar for Bittensor)
+- [SN14](https://github.com/ceterum1/llm-defender-subnet) - **LLM Defender** (Enhancing LLM security through decentralized, multi-layered defense)
+- [SN15](https://github.com/blockchain-insights/blockchain-data-subnet) - **Blockchain Insights** (Graph-based blockchain data analytics and insight platform)
+- [SN16](https://github.com/eseckft/BitAds.ai/) - **BitAds** (Leverages the Bittensor Network to offer cost-effective, high-quality advertising through a unique incentive mechanism)
+- [SN17](https://github.com/PlixML/pixel) - **PixML** (Finetuning/Pre-training a Diffusion model on Bittensor network using Vision Subnet)
+- [SN18](https://github.com/corcel-api/cortex.t) - **Cortex.T** (Platform for AI Development and Synthetic Data Generation)
+- [SN19](https://github.com/namoray/vision) - **Vision** (Focused around inference at scale, supporting various text & image models)
+- [SN20](https://github.com/RogueTensor/bitagent_subnet) - **BitAgent** (Seamlessly integrates intelligent agents, providing personalized assistance and integrated task automation)
+- [SN21](https://github.com/ifrit98/storage-subnet) - **Filetao** (Implements a multi-layered zero-knowledge interactive proof-of-spacetime algorithm, to achieve a secure and highly available decetralized storage system)
+- [SN22](https://github.com/surcyf123/smart-scrape/) - **Meta Search** (Designed for effective and simplified analysis of Twitter data)
+- [SN23](https://github.com/NicheTensor/NicheImage) - **NicheImage** (Decentralized network that utilizes the Bittensor protocol to enable distributed image generation)
+- [SN24](https://github.com/omegalabsinc/omegalabs-bittensor-subnet) - Omega Labs (Aims to create the world's largest decentralized multimodal dataset for accelerating AGI research and development)
+- [SN25](https://github.com/bit-current/DistributedTraining/) - **Hivetrain** (Introduces a cutting-edge approach to distributed deep learning, utilizing the Bittensor network)
+- [SN26](https://github.com/Supreme-Emperor-Wang/ImageAlchemy) - **Image Alchemy** (Decentralized AI transforms image creation and art synthesis)
+- [SN27](https://github.com/neuralinternet/compute-subnet) - **Compute** (Compute-composable subnet, integrating various cloud platforms (e.g., Runpod, Lambda, AWS) into a cohesive unit)
+- [SN28](https://github.com/teast21/snpOracle) - **Foundry S&P 500 Oracle** (Incentivize to make predictions on the S&P 500 price frequently throughout trading hours)
+- [SN29](https://github.com/fractal-net/fractal) - **Fractal** (Utilizing deterministic verification to create a grid of decentralized nodes to perform inference for video generation)
+- [SN30](https://github.com/womboai/wombo-bittensor-subnet) - **WomboAI** (Foundation of a decentralized content creation and distribution engine)
+- [SN31](https://github.com/nimaaghli/NASChain) - **NAS Chain** (NAS powered by Bittensor, distributes NAS tasks among participants, thereby decentralizing the computational effort)
+- [SN32](https://github.com/It-s-AI/llm-detection) - **Its-AI** (Incentivizes the development of distributed solutions aimed at identifying LLM-generated content)
 
 ## Applications
 
-- [Corcel](https://app.corcel.io/) - Platform for building applications with Bittensor
+- [Corcel](https://app.corcel.io/) - Application combining image and text generation
 - [Datura.ai](https://datura.ai/) - AI-powered insights platform
 - [NicheImage](https://nicheimage.streamlit.app/) - Application for generating images
 - [LLM Detection](https://its-ai.streamlit.app/) - Application for detecting AI-generated text
 - [BitTranslate](https://www.bittranslate.io/) - AI-powered translation platform
-- [Sybil](https://sybil.com/) - AI-powered insights platform
-- [Taoshi Dashboard](https://dashboard.taoshi.io/) - Dashboard for monitoring the Bittensor network
-- [Databox Bittensor Dashboard](https://app.databox.com/datawall/6421d7c725ecbcad689b622338546a9145b82b46577cf67?boardId=1313342) - Dashboard for Bittensor network metrics
+- [Sybil](https://sybil.com/) - AI-powered research platform
+- [Databox Bittensor Dashboard](https://app.databox.com/datawall/6421d7c725ecbcad689b622338546a9145b82b46577cf67?boardId=1313342) - Databox Dashboard
 
-## Tools
+## Useful Tools/Platforms
 
 - [Subtensor](https://github.com/opentensor/subtensor) - Bittensor's Substrate blockchain implementation
 - [Taostats](https://taostats.io/) - Block explorer for the Bittensor network
-- [Bittensor Insights](https://www.bittensor-insights.com/) - Analytics and insights for the Bittensor network
-- [Taohub.ai](https://taohub.ai/) - Explorer and analytics platform for the Bittensor network
+- [Bittensor Insights](https://www.bittensor-insights.com/) - Posts and Insights around the Bittensor Network
+- [Taohub.ai](https://taohub.ai/) - Explorer and analytics platform for the Bittensor Network
 
-## Exchanges
+## Supported Exchanges
 
-- [MEXC](https://www.mexc.com/exchange/TAO_USDT) - Cryptocurrency exchange listing TAO token
+- [Binance](https://www.binance.com/en/trade/TAO_USDT) - Major global exchange with high liquidity for TAO
+- [Gate.io](https://www.gate.io/trade/TAO_USDT) - Supports TAO/USDT trading pair
+- [KuCoin](https://www.kucoin.com/trade/TAO-USDT) - Offers TAO market against USDT
+- [MEXC](https://www.mexc.com/exchange/TAO_USDT) - Cryptocurrency exchange listing TAO token 
+- [Bitget](https://www.bitget.com/en/spot/TAO_USDT) - Provides TAO/USDT spot trading
+- [BingX](https://bingx.com/en-us/spot/TAO_USDT) - Supports buying and selling TAO with USDT
+- [Uphold](https://uphold.com/en-us/assets/crypto/buy-tao) - Digital money platform that lists TAO
+- [CoinEx](https://www.coinex.com/exchange?currency=usdt&dest=tao) - Offers TAO/USDT trading market
 - [Bittensor Exchange](https://bittensor.exchange/) - Community-run exchange for Bittensor
-- [Tensor Exchange](https://tensor.exchange/) - Decentralized exchange for Bittensor
 
-## Community
+
+## Social Media
 
 - [Bittensor.org](https://bittensor.org/) - Community-driven website for Bittensor
 - [Bittensor Discord](https://discord.gg/bittensor) - Official Discord server
@@ -109,13 +128,9 @@ A curated list of awesome things about Bittensor.
 - [Bittensor Reddit](https://www.reddit.com/r/bittensor_/) - Bittensor subreddit
 - [Bittensor Twitter](https://twitter.com/bittensor_) - Official Bittensor Twitter account
 
-## Articles/Videos and Podcasts
+## Bittensor Content
 
 - [Bittensor Guru Podcast](https://www.youtube.com/channel/UCxFVYdYxLhKhBQoQSPJoB8A) - Podcast dedicated to Bittensor discussions and interviews (by Keith)
-
-## Yield Farming
-
-- [Tao Yield](https://taoyield.com/) - Staking-Yield overview platform for the TAO token
 
 ---
 
