@@ -34,7 +34,7 @@ A extensive list of all the awesome things around Bittensor.
 
 ## Educational Sources
 
-- [Learn Bittensor](https://learnbittensor.org/) - Educational resources for learning about Bittensor
+- [Learn Bittensor](https://learnbittensor.org/) - Educational resources for learning about Bittensor with guides, articles, and other.
 - [TensorTeacher](https://www.youtube.com/@TensorTeacher-ym8mi/) - YouTube channel with content around mining setup/tutorials
 
 ## Wallets
