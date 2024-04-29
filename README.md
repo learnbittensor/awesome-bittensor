@@ -10,9 +10,9 @@ A extensive list of all the awesome things around Bittensor.
 - [Wallets](#wallets)
 - [Verified Validators](#verified-validators)
 - [Registered Subnets](#registered-subnets)
-- [Unregistered/Test Subnets](#unregistered/test-subnets)
+- [Unregistered Subnets](#unregistered-subnets)
 - [Applications](#applications)
-- [Useful Tools/Platforms](#useful-tools/platforms)
+- [Useful Tools/Platforms](#useful-tools-and-platforms)
 - [Supported Exchanges](#supported-exchanges)
 - [Social Media](#social-media)
 - [Community-Driven Projects](#community-driven-projects)
@@ -88,7 +88,7 @@ This list can change drastically over-time, while trying to be up-to-date.
 - [SN31](https://github.com/nimaaghli/NASChain) - **NAS Chain** (NAS powered by Bittensor, distributes NAS tasks among participants, thereby decentralizing the computational effort)
 - [SN32](https://github.com/It-s-AI/llm-detection) - [**Its-AI**](https://its-ai.org/) (Incentivizes the development of distributed solutions aimed at identifying LLM-generated content)
 
-## Unegistered/Test Subnets
+## Unegistered Subnets
 
 TBD
 
@@ -102,7 +102,7 @@ TBD
 - [Sybil](https://sybil.com/) - AI-powered research platform
 - [Databox Bittensor Dashboard](https://app.databox.com/datawall/6421d7c725ecbcad689b622338546a9145b82b46577cf67?boardId=1313342) - Databox Dashboard
 
-## Useful Tools/Platforms
+## Useful Tools and Platforms
 
 - [Subtensor](https://github.com/opentensor/subtensor) - Bittensor's Substrate blockchain implementation
 - [Taostats](https://taostats.io/) - Block explorer for the Bittensor network
