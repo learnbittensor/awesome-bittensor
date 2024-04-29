@@ -54,8 +54,6 @@ A extensive list of all the awesome things around Bittensor.
 
 This list can change drastically over-time, while trying to be up-to-date.
 
-- [Bittensor Subnets Overview](https://docs.bittensor.com/subnets) - Overview of Bittensor subnets
-
 - [SN00](https://github.com/opentensor/bittensor) - **Root Network** (Determines the proportion of the network’s block emission to be distributed to each subnet network)
 - [SN01](https://github.com/opentensor/text-prompting) - **Text Prompting** (Incentivizes AI-driven conversational intelligence development)
 - [SN02](https://github.com/inference-labs-inc/omron-subnet) - [**Omron**](https://omron.ai/) (AI Liquid Re-staking Yield Optimizer)
