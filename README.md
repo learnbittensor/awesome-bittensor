@@ -88,7 +88,7 @@ This list can change drastically over-time, while trying to be up-to-date.
 - [SN31](https://github.com/nimaaghli/NASChain) - **NAS Chain** (NAS powered by Bittensor, distributes NAS tasks among participants, thereby decentralizing the computational effort)
 - [SN32](https://github.com/It-s-AI/llm-detection) - [**Its-AI**](https://its-ai.org/) (Incentivizes the development of distributed solutions aimed at identifying LLM-generated content)
 
-## Unegistered Subnets
+## Unregistered Subnets
 
 TBD
 
