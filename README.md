@@ -9,7 +9,8 @@ A extensive list of all the awesome things around Bittensor.
 - [Educational Sources](#educational-sources)
 - [Wallets](#wallets)
 - [Verified Validators](#verified-validators)
-- [Subnets Overview](#subnets-Overview)
+- [Registered Subnets](#registered-subnets)
+- [Unregistered/Test Subnets](#unregistered/test-subnets)
 - [Applications](#applications)
 - [Useful Tools/Platforms](#useful-tools/platforms)
 - [Supported Exchanges](#supported-exchanges)
@@ -49,7 +50,7 @@ A extensive list of all the awesome things around Bittensor.
 
 - [Bittensor Validators List](https://bittensor.org/bittensor-validators-list/) - Curated List of active Bittensor validators
 
-## Subnets Overview
+## Registered Subnets
 
 This list can change drastically over-time, while trying to be up-to-date.
 
@@ -57,28 +58,28 @@ This list can change drastically over-time, while trying to be up-to-date.
 
 - [SN00](https://github.com/opentensor/bittensor) - **Root Network** (Determines the proportion of the network’s block emission to be distributed to each subnet network)
 - [SN01](https://github.com/opentensor/text-prompting) - **Text Prompting** (Incentivizes AI-driven conversational intelligence development)
-- [SN02](https://github.com/inference-labs-inc/omron-subnet) - **Omron** (AI Liquid Re-staking Yield Optimizer)
-- [SN03](https://github.com/myshell-ai/MyShell-TTS-Subnet) - **MyShell** (Innovative, open-source Text-to-Speech (TTS) technology)
-- [SN04](https://github.com/manifold-inc/targon) - **Multi Modality** (Decentralized ML search engine capturing meaning from text & images)
+- [SN02](https://github.com/inference-labs-inc/omron-subnet) - [**Omron**](https://omron.ai/) (AI Liquid Re-staking Yield Optimizer)
+- [SN03](https://github.com/myshell-ai/MyShell-TTS-Subnet) - [**MyShell**](https://myshell.ai/) (Innovative, open-source Text-to-Speech (TTS) technology)
+- [SN04](https://github.com/manifold-inc/targon) - [**Multi Modality**](https://sybil.com/) (Decentralized ML search engine capturing meaning from text & images)
 - [SN05](https://github.com/OpenKaito/openkaito) - **OpenKaito** (decentralizes Web3 search with BitTensor's Yuma consensus)
 - [SN06](https://github.com/NousResearch/finetuning-subnet) - **Nous Research** (Continuous fine-tuning of LLMs with incentivized synthetic data)
 - [SN07](https://github.com/eclipsevortex/SubVortex) - **SubVortex** (Boosts Bittensor with decentralized subtensor nodes for improved stability/efficiency)
-- [SN08](https://github.com/taoshidev/time-series-prediction-subnet) - **Taoshi** (The Nexus of Decentralized Financial Forecasting)
+- [SN08](https://github.com/taoshidev/time-series-prediction-subnet) - [**Taoshi**](https://www.taoshi.io/) (The Nexus of Decentralized Financial Forecasting)
 - [SN09](https://github.com/RaoFoundation/pretraining) - **Pre Training** (Facilitates pre-training of AI models on large-scale generic datasets)
-- [SN10](https://github.com/apollozkp/zkp-subnet) - **Apollo ZK** (Computing zero-knowledge proofs in a collaborative way, providing linear scaling of prover speed with network size)
+- [SN10](https://github.com/apollozkp/zkp-subnet) - [**Apollo ZK**](https://apollozkp.com/) (Computing zero-knowledge proofs in a collaborative way, providing linear scaling of prover speed with network size)
 - [SN11](https://github.com/Cazure8/transcription-subnet) - **Transcription** (Decentralized AI for audio-to-text transcription using advanced models)
 - [SN12](https://github.com/backend-developers-ltd/ComputeHorde) - **Compute Horde** (Enables decentralized, parallel task processing with dynamic executor management)
 - [SN13](https://github.com/RusticLuftig/data-universe/) - **Dataverse** (Data is a critical pillar of AI and Data Universe is that pillar for Bittensor)
 - [SN14](https://github.com/ceterum1/llm-defender-subnet) - **LLM Defender** (Enhancing LLM security through decentralized, multi-layered defense)
 - [SN15](https://github.com/blockchain-insights/blockchain-data-subnet) - **Blockchain Insights** (Graph-based blockchain data analytics and insight platform)
-- [SN16](https://github.com/eseckft/BitAds.ai/) - **BitAds** (Leverages the Bittensor Network to offer cost-effective, high-quality advertising through a unique incentive mechanism)
+- [SN16](https://github.com/eseckft/BitAds.ai/) - [**BitAds**](https://bitads.ai/) (Leverages the Bittensor Network to offer cost-effective, high-quality advertising through a unique incentive mechanism)
 - [SN17](https://github.com/PlixML/pixel) - **PixML** (Finetuning/Pre-training a Diffusion model on Bittensor network using Vision Subnet)
 - [SN18](https://github.com/corcel-api/cortex.t) - **Cortex.T** (Platform for AI Development and Synthetic Data Generation)
 - [SN19](https://github.com/namoray/vision) - **Vision** (Focused around inference at scale, supporting various text & image models)
 - [SN20](https://github.com/RogueTensor/bitagent_subnet) - **BitAgent** (Seamlessly integrates intelligent agents, providing personalized assistance and integrated task automation)
 - [SN21](https://github.com/ifrit98/storage-subnet) - **Filetao** (Implements a multi-layered zero-knowledge interactive proof-of-spacetime algorithm, to achieve a secure and highly available decetralized storage system)
 - [SN22](https://github.com/surcyf123/smart-scrape/) - **Meta Search** (Designed for effective and simplified analysis of Twitter data)
-- [SN23](https://github.com/NicheTensor/NicheImage) - **NicheImage** (Decentralized network that utilizes the Bittensor protocol to enable distributed image generation)
+- [SN23](https://github.com/NicheTensor/NicheImage) - [**NicheImage**](https://nicheimage.streamlit.app/) (Decentralized network that utilizes the Bittensor protocol to enable distributed image generation)
 - [SN24](https://github.com/omegalabsinc/omegalabs-bittensor-subnet) - Omega Labs (Aims to create the world's largest decentralized multimodal dataset for accelerating AGI research and development)
 - [SN25](https://github.com/bit-current/DistributedTraining/) - **Hivetrain** (Introduces a cutting-edge approach to distributed deep learning, utilizing the Bittensor network)
 - [SN26](https://github.com/Supreme-Emperor-Wang/ImageAlchemy) - **Image Alchemy** (Decentralized AI transforms image creation and art synthesis)
@@ -87,7 +88,11 @@ This list can change drastically over-time, while trying to be up-to-date.
 - [SN29](https://github.com/fractal-net/fractal) - **Fractal** (Utilizing deterministic verification to create a grid of decentralized nodes to perform inference for video generation)
 - [SN30](https://github.com/womboai/wombo-bittensor-subnet) - **WomboAI** (Foundation of a decentralized content creation and distribution engine)
 - [SN31](https://github.com/nimaaghli/NASChain) - **NAS Chain** (NAS powered by Bittensor, distributes NAS tasks among participants, thereby decentralizing the computational effort)
-- [SN32](https://github.com/It-s-AI/llm-detection) - **Its-AI** (Incentivizes the development of distributed solutions aimed at identifying LLM-generated content)
+- [SN32](https://github.com/It-s-AI/llm-detection) - [**Its-AI**](https://its-ai.org/) (Incentivizes the development of distributed solutions aimed at identifying LLM-generated content)
+
+## Unegistered/Test Subnets
+
+TBD
 
 ## Applications
 
