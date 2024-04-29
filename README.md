@@ -19,7 +19,6 @@ Contributions are always welcome! Please read the [contribution guidelines](CONT
 - [Useful Tools/Platforms](#useful-tools-and-platforms)
 - [Supported Exchanges](#supported-exchanges)
 - [Social Media](#social-media)
-- [Community-Driven Projects](#community-driven-projects)
 - [Bittensor Content](#bittensor-content)
 
 ---
