@@ -1,6 +1,6 @@
 # Awesome Bittensor [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A extensive list of all the awesome things around Bittensor.
+An extensive list of all the awesome things around Bittensor.
 
 ## Table of Contents
 
