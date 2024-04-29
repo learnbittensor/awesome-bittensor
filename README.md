@@ -39,10 +39,14 @@ Contributions are always welcome! Please read the [contribution guidelines](CONT
 - [Bittensor Wiki](https://bittensorwiki.com/) - Community-maintained wiki for Bittensor
 - [Taostats Documentation](https://docs.taostats.io/docs/index/) - Bittensor documentation maintained by the Toastats-Team
 
+[🔼 Back to Top](#table-of-contents)
+
 ## Educational Sources
 
 - [Learn Bittensor](https://learnbittensor.org/) - Educational resources for learning about Bittensor with guides, articles, and other.
 - [TensorTeacher](https://www.youtube.com/@TensorTeacher-ym8mi/) - YouTube channel with content around mining setup/tutorials
+
+[🔼 Back to Top](#table-of-contents)
 
 ## Wallets
 
@@ -52,9 +56,13 @@ Contributions are always welcome! Please read the [contribution guidelines](CONT
 - [Subwallet](https://www.subwallet.app/) - Another wallet for substrate-related accounts (e.g. Bittensor) with support on Android/IOS, Web-Extension, Desktop
 - [Nova Wallet](https://novawallet.io/) - Mobile Wallet for Android/IOS for managing substrate-related accounts (e.g. Bittensor)
 
+[🔼 Back to Top](#table-of-contents)
+
 ## Verified Validators
 
 - [Bittensor Validators List](https://bittensor.org/bittensor-validators-list/) - Curated List of active Bittensor validators
+
+[🔼 Back to Top](#table-of-contents)
 
 ## Registered Subnets
 
@@ -94,9 +102,13 @@ This list can change drastically over-time, while trying to be up-to-date.
 - [SN31](https://github.com/nimaaghli/NASChain) - **NAS Chain** (NAS powered by Bittensor, distributes NAS tasks among participants, thereby decentralizing the computational effort)
 - [SN32](https://github.com/It-s-AI/llm-detection) - [**Its-AI**](https://its-ai.org/) (Incentivizes the development of distributed solutions aimed at identifying LLM-generated content)
 
+[🔼 Back to Top](#table-of-contents)
+
 ## Unregistered Subnets
 
 TBD
+
+[🔼 Back to Top](#table-of-contents)
 
 ## Applications
 
@@ -108,12 +120,16 @@ TBD
 - [Sybil](https://sybil.com/) - AI-powered research platform
 - [Databox Bittensor Dashboard](https://app.databox.com/datawall/6421d7c725ecbcad689b622338546a9145b82b46577cf67?boardId=1313342) - Databox Dashboard
 
+[🔼 Back to Top](#table-of-contents)
+
 ## Useful Tools and Platforms
 
 - [Subtensor](https://github.com/opentensor/subtensor) - Bittensor's Substrate blockchain implementation
 - [Taostats](https://taostats.io/) - Block explorer for the Bittensor network
 - [Bittensor Insights](https://www.bittensor-insights.com/) - Posts and Insights around the Bittensor Network
 - [Taohub.ai](https://taohub.ai/) - Explorer and analytics platform for the Bittensor Network
+
+[🔼 Back to Top](#table-of-contents)
 
 ## Supported Exchanges
 
@@ -127,6 +143,7 @@ TBD
 - [CoinEx](https://www.coinex.com/exchange?currency=usdt&dest=tao) - Offers TAO/USDT trading market
 - [Bittensor Exchange](https://bittensor.exchange/) - Community-run exchange for Bittensor
 
+[🔼 Back to Top](#table-of-contents)
 
 ## Social Media
 
@@ -137,6 +154,10 @@ TBD
 - [Bittensor Reddit](https://www.reddit.com/r/bittensor_/) - Bittensor subreddit
 - [Bittensor Twitter](https://twitter.com/bittensor_) - Official Bittensor Twitter account
 
+[🔼 Back to Top](#table-of-contents)
+
 ## Bittensor Content
 
 - [Bittensor Guru Podcast](https://www.youtube.com/channel/UCxFVYdYxLhKhBQoQSPJoB8A) - Podcast dedicated to Bittensor discussions and interviews (by Keith)
+
+[🔼 Back to Top](#table-of-contents)
