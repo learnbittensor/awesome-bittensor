@@ -1,6 +1,6 @@
 # Awesome Bittensor [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-An extensive list of all the awesome things around Bittensor.
+> An extensive list of all the awesome things around Bittensor.
 
 ## Contributing
 
@@ -157,6 +157,6 @@ TBD
 
 ## Bittensor Content
 
-- [Bittensor Guru Podcast](https://www.youtube.com/channel/UCxFVYdYxLhKhBQoQSPJoB8A) - Podcast dedicated to Bittensor discussions and interviews (by Keith)
+- [Bittensor Guru Podcast](https://bittensor.guru/) - Podcast dedicated to Bittensor discussions and interviews (by Keith)
 
 [🔼 Back to Top](#table-of-contents)
