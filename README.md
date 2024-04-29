@@ -2,6 +2,10 @@
 
 An extensive list of all the awesome things around Bittensor.
 
+## Contributing
+
+Contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+
 ## Table of Contents
 
 - [Official Sources](#official-sources)
@@ -26,6 +30,8 @@ An extensive list of all the awesome things around Bittensor.
 - [Bittensor GitHub](https://github.com/opentensor/bittensor) - Main GitHub repository for Bittensor
 - [Bittensor Whitepaper](https://bittensor.com/whitepaper) - Technical whitepaper explaining Bittensor's architecture and design
 - [Opentensor Foundation](https://opentensor.ai/) - Non-profit organization that founded Bittensor
+
+[🔼 Back to Top](#table-of-contents)
 
 ## Documentations
 
@@ -134,9 +140,3 @@ TBD
 ## Bittensor Content
 
 - [Bittensor Guru Podcast](https://www.youtube.com/channel/UCxFVYdYxLhKhBQoQSPJoB8A) - Podcast dedicated to Bittensor discussions and interviews (by Keith)
-
----
-
-## Contributing
-
-Contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
