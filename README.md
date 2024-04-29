@@ -90,7 +90,7 @@ This list can change drastically over-time, while trying to be up-to-date.
 - [SN20](https://github.com/RogueTensor/bitagent_subnet) - **BitAgent** (Seamlessly integrates intelligent agents, providing personalized assistance and integrated task automation)
 - [SN21](https://github.com/ifrit98/storage-subnet) - **Filetao** (Implements a multi-layered zero-knowledge interactive proof-of-spacetime algorithm, to achieve a secure and highly available decetralized storage system)
 - [SN22](https://github.com/surcyf123/smart-scrape/) - **Meta Search** (Designed for effective and simplified analysis of Twitter data)
-- [SN23](https://github.com/NicheTensor/NicheImage) - [**NicheImage**](https://nicheimage.streamlit.app/) (Decentralized network that utilizes the Bittensor protocol to enable distributed image generation)
+- [SN23](https://github.com/NicheTensor/NicheImage) - **NicheImage** (Decentralized network that utilizes the Bittensor protocol to enable distributed image generation)
 - [SN24](https://github.com/omegalabsinc/omegalabs-bittensor-subnet) - Omega Labs (Aims to create the world's largest decentralized multimodal dataset for accelerating AGI research and development)
 - [SN25](https://github.com/bit-current/DistributedTraining/) - **Hivetrain** (Introduces a cutting-edge approach to distributed deep learning, utilizing the Bittensor network)
 - [SN26](https://github.com/Supreme-Emperor-Wang/ImageAlchemy) - **Image Alchemy** (Decentralized AI transforms image creation and art synthesis)
