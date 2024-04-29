@@ -58,7 +58,7 @@ This list can change drastically over-time, while trying to be up-to-date.
 - [SN01](https://github.com/opentensor/text-prompting) - **Text Prompting** (Incentivizes AI-driven conversational intelligence development)
 - [SN02](https://github.com/inference-labs-inc/omron-subnet) - [**Omron**](https://omron.ai/) (AI Liquid Re-staking Yield Optimizer)
 - [SN03](https://github.com/myshell-ai/MyShell-TTS-Subnet) - [**MyShell**](https://myshell.ai/) (Innovative, open-source Text-to-Speech (TTS) technology)
-- [SN04](https://github.com/manifold-inc/targon) - [**Multi Modality**](https://sybil.com/) (Decentralized ML search engine capturing meaning from text & images)
+- [SN04](https://github.com/manifold-inc/targon) - **Multi Modality** (Decentralized ML search engine capturing meaning from text & images)
 - [SN05](https://github.com/OpenKaito/openkaito) - **OpenKaito** (decentralizes Web3 search with BitTensor's Yuma consensus)
 - [SN06](https://github.com/NousResearch/finetuning-subnet) - **Nous Research** (Continuous fine-tuning of LLMs with incentivized synthetic data)
 - [SN07](https://github.com/eclipsevortex/SubVortex) - **SubVortex** (Boosts Bittensor with decentralized subtensor nodes for improved stability/efficiency)
