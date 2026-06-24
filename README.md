@@ -126,6 +126,7 @@ TBD
 - [Subtensor](https://github.com/opentensor/subtensor) - Bittensor's Substrate blockchain implementation
 - [Taostats](https://taostats.io/) - Block explorer for the Bittensor network
 - [Bittensor Insights](https://www.bittensor-insights.com/) - Posts and Insights around the Bittensor Network
+- [Neuralteq](https://neuralteq.com/) - Non-custodial Bittensor dTAO research and workflow platform for subnet market data, portfolio tracking, staking tools, orders, baskets, and swaps
 - [Taohub.ai](https://taohub.ai/) - Explorer and analytics platform for the Bittensor Network
 
 [🔼 Back to Top](#table-of-contents)
