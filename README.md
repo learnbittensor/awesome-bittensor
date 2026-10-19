@@ -126,6 +126,7 @@ TBD
 - [Subtensor](https://github.com/opentensor/subtensor) - Bittensor's Substrate blockchain implementation
 - [Taostats](https://taostats.io/) - Block explorer for the Bittensor network
 - [Bittensor Insights](https://www.bittensor-insights.com/) - Posts and Insights around the Bittensor Network
+- [OnFinality](https://onfinality.io/en/networks/bittensor-finney) - Managed Bittensor Finney RPC endpoints over HTTPS and WebSocket for querying Subtensor chain data.
 - [Taohub.ai](https://taohub.ai/) - Explorer and analytics platform for the Bittensor Network
 
 [🔼 Back to Top](#table-of-contents)
