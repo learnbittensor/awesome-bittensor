@@ -123,6 +123,7 @@ TBD
 
 ## Useful Tools and Platforms
 
+- [Bittensor Subnet Registration Costs](https://overwatchdominion-stack.github.io/) - Registration burn, slot use and prune bar for every subnet, read from chain and refreshed every 30 minutes; CSV download.
 - [Subtensor](https://github.com/opentensor/subtensor) - Bittensor's Substrate blockchain implementation
 - [Taostats](https://taostats.io/) - Block explorer for the Bittensor network
 - [Bittensor Insights](https://www.bittensor-insights.com/) - Posts and Insights around the Bittensor Network
